@@ -7,10 +7,11 @@
   "private": false,
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build-old": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "update:packages": "node wipe-dependencies.js && del node_modules && npm update --save-dev && npm update --save"
+    "update:packages": "node wipe-dependencies.js && del node_modules && npm update --save-dev && npm update --save",
+    "build": "react-scripts build && move build docs"
   },
   "eslintConfig": {
     "extends": "react-app"
