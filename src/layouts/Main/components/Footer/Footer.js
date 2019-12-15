@@ -24,16 +24,15 @@ const Footer = props => {
         &copy;{' '}
         <Link
           component="a"
-          href="https://devias.io/"
+          href="https://www.bipul.in"
           target="_blank"
         >
-          Devias IO
+          www.bipul.in
         </Link>
         . 2019
       </Typography>
       <Typography variant="caption">
-        Created with love for the environment. By designers and developers who
-        love to work together in offices!
+        Developed with ReactJS and Material UI
       </Typography>
     </div>
   );
