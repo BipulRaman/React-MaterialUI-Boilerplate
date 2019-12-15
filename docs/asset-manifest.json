@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fec45a73.chunk.css",
-    "main.js": "/static/js/main.63c180fb.chunk.js",
-    "main.js.map": "/static/js/main.63c180fb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2c81bb48.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2c81bb48.js.map",
-    "static/css/2.fa4a79a6.chunk.css": "/static/css/2.fa4a79a6.chunk.css",
-    "static/js/2.e30020fd.chunk.js": "/static/js/2.e30020fd.chunk.js",
-    "static/js/2.e30020fd.chunk.js.map": "/static/js/2.e30020fd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a1934345fae1d9881fbfb2c0421aeb43.js": "/precache-manifest.a1934345fae1d9881fbfb2c0421aeb43.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.fa4a79a6.chunk.css.map": "/static/css/2.fa4a79a6.chunk.css.map",
-    "static/css/main.fec45a73.chunk.css.map": "/static/css/main.fec45a73.chunk.css.map",
-    "static/js/2.e30020fd.chunk.js.LICENSE": "/static/js/2.e30020fd.chunk.js.LICENSE"
+    "main.css": "/React-MaterialUI-Boilerplate/static/css/main.fec45a73.chunk.css",
+    "main.js": "/React-MaterialUI-Boilerplate/static/js/main.022b109d.chunk.js",
+    "main.js.map": "/React-MaterialUI-Boilerplate/static/js/main.022b109d.chunk.js.map",
+    "runtime-main.js": "/React-MaterialUI-Boilerplate/static/js/runtime-main.c989519c.js",
+    "runtime-main.js.map": "/React-MaterialUI-Boilerplate/static/js/runtime-main.c989519c.js.map",
+    "static/css/2.fa4a79a6.chunk.css": "/React-MaterialUI-Boilerplate/static/css/2.fa4a79a6.chunk.css",
+    "static/js/2.d54650ad.chunk.js": "/React-MaterialUI-Boilerplate/static/js/2.d54650ad.chunk.js",
+    "static/js/2.d54650ad.chunk.js.map": "/React-MaterialUI-Boilerplate/static/js/2.d54650ad.chunk.js.map",
+    "index.html": "/React-MaterialUI-Boilerplate/index.html",
+    "precache-manifest.9b93b38e1fca2818f1ea7d4667e86a44.js": "/React-MaterialUI-Boilerplate/precache-manifest.9b93b38e1fca2818f1ea7d4667e86a44.js",
+    "service-worker.js": "/React-MaterialUI-Boilerplate/service-worker.js",
+    "static/css/2.fa4a79a6.chunk.css.map": "/React-MaterialUI-Boilerplate/static/css/2.fa4a79a6.chunk.css.map",
+    "static/css/main.fec45a73.chunk.css.map": "/React-MaterialUI-Boilerplate/static/css/main.fec45a73.chunk.css.map",
+    "static/js/2.d54650ad.chunk.js.LICENSE": "/React-MaterialUI-Boilerplate/static/js/2.d54650ad.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c81bb48.js",
+    "static/js/runtime-main.c989519c.js",
     "static/css/2.fa4a79a6.chunk.css",
-    "static/js/2.e30020fd.chunk.js",
+    "static/js/2.d54650ad.chunk.js",
     "static/css/main.fec45a73.chunk.css",
-    "static/js/main.63c180fb.chunk.js"
+    "static/js/main.022b109d.chunk.js"
   ]
 }
