@@ -1,0 +1,60 @@
+{
+  "name": "react-material-dashboard",
+  "author": "DeviasIO",
+  "email": "contact@devias.io",
+  "licence": "MIT",
+  "version": "0.3.0",
+  "private": false,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "update:packages": "node wipe-dependencies.js && del node_modules && npm update --save-dev && npm update --save"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@material-ui/core": "*",
+    "@material-ui/icons": "*",
+    "@material-ui/styles": "*",
+    "chart.js": "*",
+    "clsx": "*",
+    "history": "*",
+    "moment": "*",
+    "node-sass": "*",
+    "prop-types": "*",
+    "react": "*",
+    "react-chartjs-2": "*",
+    "react-dom": "*",
+    "react-perfect-scrollbar": "*",
+    "react-router-dom": "*",
+    "react-scripts": "*",
+    "recompose": "*",
+    "underscore": "*",
+    "uuid": "*",
+    "validate.js": "*"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "*",
+    "eslint-plugin-react": "*",
+    "prettier": "*",
+    "prettier-eslint": "^9.0.1",
+    "prettier-eslint-cli": "^5.0.0",
+    "typescript": "*"
+  }
+}
