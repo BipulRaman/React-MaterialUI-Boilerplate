@@ -1,22 +1,7 @@
-name: Build and Deploy
-on:
-  push:
-    branches:
-      - master
-
-jobs:
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
-      - name: Install Dependencies
-        run: npm install
-      - name: Build
-        run: npm run build --out-dir dist
-      - name: Archive Production Artifact
-        uses: actions/upload-artifact@master
-        with:
-          name: dist
-          path: ./dist
+- name: Firebase GitHub Action
+  uses: pizzafox/firebase-action@1.0.7
+  env:
+    PROJECT_ID: "bipultaman"
+    FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+  with:
+    args: deploy
